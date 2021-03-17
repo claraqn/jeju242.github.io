@@ -1,1 +1,1 @@
-부트스트랩 적용 웹페이지
+# jeju University building info website
